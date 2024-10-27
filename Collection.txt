@@ -1,0 +1,75 @@
+The codification of the Rigveda took place late in the Rigvedic or rather in the early post-Rigvedic period at c. 1200 BCE, by members of the early Kuru tribe, when the center of Vedic culture moved east from the Punjab into what is now Uttar Pradesh.[52] The Rigveda was codified by compiling the hymns, including the arrangement of the individual hymns in ten books, coeval with the composition of the younger Veda Samhitas.[53] According to Witzel, the initial collection took place after the Bharata victory in the Battle of the Ten Kings, under king Sudās, over other Puru kings. This collection was an effort to reconcile various factions in the clans which were united in the Kuru kingdom under a Bharata king.[54][note 6] This collection was re-arranged and expanded in the Kuru Kingdom, reflecting the establishment of a new Bharata-Puru lineage and new srauta rituals.[55][note 7]
+
+The fixing of the Vedic chant (by enforcing regular application of sandhi) and of the padapatha (by dissolving Sandhi out of the earlier metrical text), occurred during the later Brahmana period, in roughly the 6th century BCE.[57]
+
+The surviving form of the Rigveda is based on an early Iron Age collection that established the core 'family books' (mandalas 2–7, ordered by author, deity and meter[5]) and a later redaction, coeval with the redaction of the other Vedas, dating several centuries after the hymns were composed. This redaction also included some additions (contradicting the strict ordering scheme) and orthoepic changes to the Vedic Sanskrit such as the regularization of sandhi (termed orthoepische Diaskeuase by Oldenberg, 1888).
+
+Organisation
+Mandalas
+The text is organized in ten "books", or maṇḍalas ("circles"), of varying age and length.[58] The "family books", mandalas 2–7, are the oldest part of the Rigveda and the shortest books; they are arranged by length (decreasing length of hymns per book) and account for 38% of the text.[59][60]
+
+The hymns are arranged in collections each dealing with a particular deity: Agni comes first, Indra comes second, and so on. They are attributed and dedicated to a rishi (sage) and his family of students.[61] Within each collection, the hymns are arranged in descending order of the number of stanzas per hymn. If two hymns in the same collection have equal numbers of stanzas then they are arranged so that the number of syllables in the metre are in descending order.[62][63] The second to seventh mandalas have a uniform format.[59]
+
+The eighth and ninth mandalas, comprising hymns of mixed age, account for 15% and 9%, respectively. The ninth mandala is entirely dedicated to Soma and the Soma ritual. The hymns in the ninth mandala are arranged by both their prosody structure (chanda) and by their length.[59]
+
+The first and the tenth mandalas are the youngest; they are also the longest books, of 191 suktas each, accounting for 37% of the text. Nevertheless, some of the hymns in mandalas 8, 1 and 10 may still belong to an earlier period and may be as old as the material in the family books.[64] The first mandala has a unique arrangement not found in the other nine mandalas. The first 84 hymns of the tenth mandala have a structure different from the remaining hymns in it.[59]
+
+Hymns and prosody
+Each mandala consists of hymns or sūktas (su- + ukta, literally, "well recited, eulogy") intended for various rituals. The sūktas in turn consist of individual stanzas called ṛc ("praise", pl. ṛcas), which are further analysed into units of verse called pada ("foot" or step).
+
+The hymns of the Rigveda are in different poetic metres in Vedic Sanskrit. The meters most used in the ṛcas are the gayatri (3 verses of 8 syllables), anushtubh (4×8), trishtubh (4×11) and jagati (4×12). The trishtubh meter (40%) and gayatri meter (25%) dominate in the Rigveda.[65][66][67]
+
+Meter[note 8]	Rigvedic verses[68]
+Transmission
+As with the other Vedas, the redacted text has been handed down in several versions, including the Padapatha, in which each word is isolated in pausa form and is used for just one way of memorization; and the Samhitapatha, which combines words according to the rules of sandhi (the process being described in the Pratisakhya) and is the memorized text used for recitation.
+
+The Padapatha and the Pratisakhya anchor the text's true meaning,[69] and the fixed text was preserved with unparalleled fidelity for more than a millennium by oral tradition alone.[28] In order to achieve this the oral tradition prescribed very structured enunciation, involving breaking down the Sanskrit compounds into stems and inflections, as well as certain permutations. This interplay with sounds gave rise to a scholarly tradition of morphology and phonetics.
+
+It is unclear as to when the Rigveda was first written down. The oldest surviving manuscripts have been discovered in Nepal and date to c. 1040 CE.[3][70] According to Witzel, the Paippalada Samhita tradition points to written manuscripts c. 800–1000 CE.[71] The Upanishads were likely in the written form earlier, about mid-1st millennium CE (Gupta Empire period).[28][72] Attempts to write the Vedas may have been made "towards the end of the 1st millennium BCE". The early attempts may have been unsuccessful given the Smriti rules that forbade the writing down the Vedas, states Witzel.[28] The oral tradition continued as a means of transmission until modern times.[73]
+
+Recensions
+
+Geographical distribution of the Late Vedic Period. Each major region had its own recension of Rig Veda (Śākhās), and the versions varied.[3]
+Several shakhas (from skt. śākhā f. "branch", i. e. "recension") of the Rig Veda are known to have existed in the past. Of these, Śākala Śākhā (named after the scholar Śākalya) is the only one to have survived in its entirety. Another śākhā that may have survived is the Bāṣkala, although this is uncertain.[74][75][76]
+
+The surviving padapāṭha version of the Rigveda text is ascribed to Śākalya.[77] The Śākala recension has 1,017 regular hymns, and an appendix of 11 vālakhilya hymns[78] which are now customarily included in the 8th mandala (as 8.49–8.59), for a total of 1028 hymns.[79] The Bāṣkala recension includes eight of these vālakhilya hymns among its regular hymns, making a total of 1025 regular hymns for this śākhā.[80] In addition, the Bāṣkala recension has its own appendix of 98 hymns, the Khilani.[81]
+
+In the 1877 edition of Aufrecht, the 1028 hymns of the Rigveda contain a total of 10,552 ṛcs, or 39,831 padas. The Shatapatha Brahmana gives the number of syllables to be 432,000,[82] while the metrical text of van Nooten and Holland (1994) has a total of 395,563 syllables (or an average of 9.93 syllables per pada); counting the number of syllables is not straightforward because of issues with sandhi and the post-Rigvedic pronunciation of syllables like súvar as svàr.
+
+Three other shakhas are mentioned in Caraṇavyuha, a pariśiṣṭa (supplement) of Yajurveda: Māṇḍukāyana, Aśvalāyana and Śaṅkhāyana. The Atharvaveda lists two more shakhas. The differences between all these shakhas are very minor, limited to varying order of content and inclusion (or non-inclusion) of a few verses. The following information is known about the shakhas other than Śākala and Bāṣkala:[83]
+
+Māṇḍukāyana: Perhaps the oldest of the Rigvedic shakhas.
+Aśvalāyana: Includes 212 verses, all of which are newer than the other Rigvedic hymns.
+Śaṅkhāyana: Very similar to Aśvalāyana
+Saisiriya: Mentioned in the Rigveda Pratisakhya. Very similar to Śākala, with a few additional verses; might have derived from or merged with it.
+Shakha	Samhita	Brahmana	Aranyaka	Upanishad
+Shaakala	Shaakala Samhita	Aitareya Brahmana	Aitareya Aranyaka	Aitareya Upanishad
+Baashkala	Kaushitaki Samhita	Kaushitaki Brahmana	Manuscript exists	Kaushitaki Upanishad
+Shankhayana	Sankhayana Samhita	Shankhayana Brahmana	Shankhyana Aranyaka	edited as a part of the Aranyaka
+Manuscripts
+
+Rigveda manuscript page, Mandala 1, Hymn 1 (Sukta 1), lines 1.1.1 to 1.1.9 (Sanskrit, Devanagari script)
+The Rigveda hymns were composed and preserved by oral tradition. They were memorized and verbally transmitted with "unparalleled fidelity" across generations for many centuries.[28][84] According to Barbara West, it was probably first written down about the 3rd-century BCE.[85][86] The manuscripts were made from birch bark or palm leaves, which decompose and therefore were routinely copied over the generations to help preserve the text.
+
+Versions
+There are, for example, 30 manuscripts of Rigveda at the Bhandarkar Oriental Research Institute, collected in the 19th century by Georg Bühler, Franz Kielhorn and others, originating from different parts of India, including Kashmir, Gujarat, the then Rajaputana, Central Provinces etc. They were transferred to Deccan College, Pune, in the late 19th century. They are in the Sharada and Devanagari scripts, written on birch bark and paper. The oldest of the Pune collection is dated to 1464 CE. The 30 manuscripts of Rigveda preserved at the Bhandarkar Oriental Research Institute, Pune were added to UNESCO's Memory of the World Register in 2007.[87]
+
+Of these thirty manuscripts, nine contain the samhita text, five have the padapatha in addition. Thirteen contain Sayana's commentary. At least five manuscripts (MS. no. 1/A1879-80, 1/A1881-82, 331/1883-84 and 5/Viś I) have preserved the complete text of the Rigveda. MS no. 5/1875-76, written on birch bark in bold Sharada, was only in part used by Max Müller for his edition of the Rigveda with Sayana's commentary.
+
+Müller used 24 manuscripts then available to him in Europe, while the Pune Edition used over five dozen manuscripts, but the editors of Pune Edition could not procure many manuscripts used by Müller and by the Bombay Edition, as well as from some other sources; hence the total number of extant manuscripts known then must surpass perhaps eighty at least.[88][full citation needed]
+
+Scripts
+Rigveda manuscripts in paper, palm leaves and birch bark form, either in full or in portions, have been discovered in the following Indic scripts:
+
+Devanagari (Rajasthan, Maharashtra, Uttar Pradesh, Nepal)[89][90][91]
+Grantha (Tamil Nadu)[92][93]
+Malayalam (Kerala)[94]
+Nandinagari (South India)[95]
+Sharada (Kashmir)[96][97]
+Comparison
+The various Rigveda manuscripts discovered so far show some differences. Broadly, the most studied Śākala recension has 1017 hymns, includes an appendix of eleven valakhīlya hymns which are often counted with the eighth mandala, for a total of 1028 metrical hymns. The Bāṣakala version of Rigveda includes eight of these vālakhilya hymns among its regular hymns, making a total of 1025 hymns in the main text for this śākhā. The Bāṣakala text also has an appendix of 98 hymns, called the Khilani, bringing the total to 1,123 hymns. The manuscripts of Śākala recension of the Rigveda have about 10,600 verses, organized into ten Books (Mandalas).[98][99] Books 2 through 7 are internally homogeneous in style, while Books 1, 8 and 10 are compilation of verses of internally different styles suggesting that these books are likely a collection of compositions by many authors.[99]
+
+The first mandala is the largest, with 191 hymns and 2006 verses, and it was added to the text after Books 2 through 9. The last, or the 10th Book, also has 191 hymns but 1754 verses, making it the second largest. The language analytics suggest the 10th Book, chronologically, was composed and added last.[99] The content of the 10th Book also suggest that the authors knew and relied on the contents of the first nine books.[99]
+
+The Rigveda is the largest of the four Vedas, and many of its verses appear in the other Vedas.[100] Almost all of the 1875 verses found in Samaveda are taken from different parts of the Rigveda, either once or as repetition, and rewritten in a chant song form. Books 8 and 9 of the Rigveda are by far the largest source of verses for Sama Veda. Book 10 contributes the largest number of the 1350 verses of Rigveda found in Atharvaveda, or about one fifth of the 5987 verses in the Atharvaveda text.[99] A bulk of 1875 ritual-focussed verses of Yajurveda, in its numerous versions, also borrow and build upon the foundation of verses in Rigveda.[100][101]
+
